@@ -1,4 +1,4 @@
-const uri = '';
+const uri = 'www.google.com';
 // Grab elements, create settings, etc.
 var video = document.getElementById('video');
 
